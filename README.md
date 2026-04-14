@@ -2,6 +2,8 @@
 exomol.com: Description, maintenance,  issues, feature requests, scripts etc
 
 ## Updates: 
+- 10.04.2026: Added definition files for 14N-1H2-2H CoYuTe and 14N-2H2-1H CoYuTe line lists.
+- 09.04.2026: Updated all recommended def and def.json files with correct states column labels, and added inchis, inchi-keys and CAS registry numbers wherever applicable. Added lifetimes to states files of all internal line lists.
 - 26.03.2026: 12C-16O2__UCL-4000.states.bz2 updated with a version with ML AFGL QNs.
 - 20.03.2026: In 27Al-18O__ATP.states, 27Al-17O__ATP.states and 26Al-16O__ATP.states, nan-s energies, unc have been corrected. 
 - 04.01.2026: In 27Al-35Cl__YNAT.states and 27Al-37Cl__YNAT.states.bz2 "Inf"s were replaced with "NaN" except for v=0,J=1,X.
